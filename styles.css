@@ -281,3 +281,16 @@ footer ul {
     color: #fff;
 }
 
+.client-link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.client-cards {
+    border: 4px black;
+    border-radius: 10px;
+}
+
+#client-report-page #box {
+    grid-template-rows: 193px 380px auto 200px;
+}
